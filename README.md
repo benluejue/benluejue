@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @benluejue
-- 👀 I’m interested in JavaScript，html，css
-- 🌱 I’m currently learning JavaScript，html，css
 希望在2024年找到一份满意的工作。
 
 <!---
