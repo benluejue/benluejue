@@ -1,4 +1,4 @@
-希望在2024年找到一份满意的工作。
+希望找到一份满意的工作。
 
 <!---
 benluejue/benluejue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
